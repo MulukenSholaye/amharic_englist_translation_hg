@@ -11,7 +11,7 @@
 This project is a machine translation application designed to compare the performance of various transformer-based models for translating text from Amharic to English. The application provides a user-friendly interface to input Amharic text, receive translations from multiple models simultaneously, and visualize their performance metrics. 
 			The goal is to identify the most effective and efficient transformer architecture for this specific language pair.
 
-![dsfd](1.png)
+![dsfd](https://github.com/MulukenSholaye/amharic_englist_translation_hg/blob/c059ec3a47896bfe205583539712b9f537a4c4d4/Screenshot%20from%202025-09-24%2019-51-40.png)
 
 # Key Features
 * Multi-Model Translation: Translate a single Amharic text snippet using several different transformer models.
