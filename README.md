@@ -7,7 +7,7 @@
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-# Overview
+## Overview
 This project is a machine translation application designed to compare the performance of various transformer-based models for translating text from Amharic to English. The application provides a user-friendly interface to input Amharic text, receive translations from multiple models simultaneously, and visualize their performance metrics. 
 			The goal is to identify the most effective and efficient transformer architecture for this specific language pair.
 
