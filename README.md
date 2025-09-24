@@ -25,5 +25,5 @@ This project is a machine translation application designed to compare the perfor
 		*			├── python_files/                     # Trained model checkpoints and tokenizer python files
 		*			├── htmlfiles/                       # Dataset files (e.g., amharic-en-corpus.txt)
 					├--
-#We welcome contributions!
+# We welcome contributions!
 * Please feel free to open an issue or submit a pull request. For major changes, please open an issue first to discuss the proposed changes.LicenseThis project is licensed under the MIT License - see the LICENSE file for details.
