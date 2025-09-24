@@ -36,5 +36,8 @@ This project is a machine translation application designed to compare the perfor
 			def run_models(self, model):
   			self.model = model
 		```
+
 # We welcome contributions!
 * Please feel free to open an issue or submit a pull request. For major changes, please open an issue first to discuss the proposed changes.LicenseThis project is licensed under the MIT License - see the LICENSE file for details.
+* ![](https://github.com/MulukenSholaye/amharic_englist_translation_hg/blob/793ac1c73145ba16ac25862ce406057719f98e2d/Screenshot%20from%202025-09-24%2019-38-18.png)
+* ![]()
