@@ -21,7 +21,7 @@ This project is a machine translation application designed to compare the perfor
 * 		source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 * Install the required Python packages:pip install -r requirements.txt
 * 		Download the pre-trained models and datasets (instructions to be provided in a separate file or script).UsageStart the application:python main.py
-* Open your web browser and navigate to http://127.0.0.1:5000 (or the address shown in the terminal).Enter the Amharic text you wish to translate into the input box.Click "Translate" to see the output from each of the configured models. The results page will display the translated text and performance metrics for each model.Project Structure.
+		* Open your web browser and navigate to http://127.0.0.1:5000 (or the address shown in the terminal).Enter the Amharic text you wish to translate into the input box.Click "Translate" to see the output from each of the configured models. The results page will display the translated text and performance metrics for each model.Project Structure.
 		*			├── python_files/                     # Trained model checkpoints and tokenizer python files
 		*			├── htmlfiles/                       # Dataset files (e.g., amharic-en-corpus.txt)
 					├--
