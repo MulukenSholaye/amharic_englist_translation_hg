@@ -1,7 +1,8 @@
 # Amharic-English Machine Translation Comparator Project 
 
 # Overview
-This project is a machine translation application designed to compare the performance of various transformer-based models for translating text from Amharic to English. The application provides a user-friendly interface to input Amharic text, receive translations from multiple models simultaneously, and visualize their performance metrics. The goal is to identify the most effective and efficient transformer architecture for this specific language pair.
+This project is a machine translation application designed to compare the performance of various transformer-based models for translating text from Amharic to English. The application provides a user-friendly interface to input Amharic text, receive translations from multiple models simultaneously, and visualize their performance metrics. 
+			The goal is to identify the most effective and efficient transformer architecture for this specific language pair.
 
 ![dsfd](1.png)
 # Key Features
